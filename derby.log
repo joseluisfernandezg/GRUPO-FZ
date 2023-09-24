@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Fri Sep 22 20:26:20 BOT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-018a-bf6e-203e-00000d382000 
+on database directory C:\Java\0-Produccion\GrupoFZ\BD  with class loader sun.misc.Launcher$AppClassLoader@2503dbd3 
+Loaded from file:/C:/Java/0-Produccion/GrupoFZ/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=C:\Java\0-Produccion\GrupoFZ
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

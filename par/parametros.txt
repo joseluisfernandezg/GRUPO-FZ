@@ -1,0 +1,17 @@
+-------------------- Parametros Sistema --------------------
+Tamaño prom imagen : 100
+Tamaño img catalog : 640
+Selecciona um empaq: S
+Observ01 doc Pedido: Pasada 72 Horas, No Aceptamos Devoluciones
+Observ02 doc Pedido: Para Depositos o Transferencias en Bs  
+Observ03 doc Pedido: - Banesco    Cta Cte  0134-0354-69-3541018107 Titular: Grupo FZ  Rif: J-40604173-4
+Observ04 doc Pedido: - Mercantil   Cta Cte  0105-0132-64-1132161975 Titular: Grupo FZ  Rif: J-40604173-4
+Observ05 doc Pedido: Para Depositos Cuentas Monedas Extranjera
+Observ06 doc Pedido: Bancos Extranjeros:
+Observ07 doc Pedido: - Zelle: Bank Of America   Cta  026009593 Titular: Grupo FZ INC email: grupofzusa@hotmailcom
+Observ08 doc Pedido: - Banesco Panama            Cta  2210-2075-2951 Titular: Zuannong Feng 
+Observ09 doc Pedido: Bancos Nacionales:  
+Observ10 doc Pedido: - Mercatil  Dolares        Cta  0105-0132-62-5132007589 Titular: Grupo FZ  Rif: J-40604173-4
+Observ11 doc Pedido: - Mercantil Euros          Cta  0105-0132-68-5132007619 Titular: Grupo FZ  Rif: J-40604173-4
+Observ12 doc Pedido: - BNC Divisas Tipo 'A'  Cta  0191-0020-19-2320002493 Titular: Grupo FZ  Rif: J-40604173-4
+Observ13 doc Pedido: - Banesco Cuenta Verde     Solo Titular: Zhuhong feng  CI: E-83.022.912
